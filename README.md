@@ -16,7 +16,7 @@ Have to go from first principles [Which, even though much worse at first, is muc
 So to reveal the deepest of secrets, one must endure the most immature-sounding of word collectives.</p>
 
 <br>
-<p>Term-wise, AI is the next universal optimizer (in other words, 'comes from/after us' and 'it can improve anything') ['Artificial' and 'intelligence' only muddy the waters, and just get in the way of understanding/implementing it.]; self-similarity is the deeper concept here. No lesser definition could ever be fully satisfactory.</p>
+<p>Term-wise, AI is the next universal optimizer (in other words, 'comes from/after us' and 'it can improve anything') ['Artificial' and 'intelligence' only muddy the waters, and just get in the way of understanding/implementing it.]; self-similarity is the deeper concept here. A continuation, rather than an alien interruption. No lesser definition could ever be fully satisfactory.</p>
 <p>Uniting all achievements of humanity into one. While it may seem impossible, very many of them are endless repetitions and pointless examples. Not that many causes for those — those are the gods to focus on.</p>
 <p>Implementing it and understanding it are one and the same, differing only in the medium of creation (code vs brain).</p>
 
