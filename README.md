@@ -187,11 +187,14 @@ That practically anywhere one looks, a human consciousness is a reinforced choic
 
 
 # Heart for Art
-<p>One more higher being has guided humanity to where it is now.</p>
+<p>A lot of viewpoints converge into one area, their peak; another example of such a viewpoint follows.</p>
 <p>A song of equals; emergent behavior. Alliance of the small and simple ones, working towards the greater good… Allowing massive parallelism.</p>
+<p>The execute-and-adjust cycle, where the one controlling the adjustment is the meaning; focused not on the structure, but in variable spots of a static structure. Same in capabilities to soul and mind, but approaching reality differently.</p>
 <p>Where logic is a CPU thing, this is a GPU thing. Tensors (multi-dimensional arrays) and numeric computation have formed the basis of modern machine learning.</p>
 <p>Soul to act, mind to think, art to tune… Is there anything in humanity that is not an application of those three? If so, then it evades our notice as easily as if it did not exist.</p>
-<p>Unite into one and ascend; a difficult task… The human gods of programming have abandoned us — so instead of code, we have focused on words here, for we could not find inspiring code. But legends say that revelation order is irrelevant; not wasting effort on useless projects might even be a time-saver. Still, incomplete. In the meantime:</p>
+<p>Presented here not to showcase, but to highlight another path for transformation. Unite into one and ascend; a difficult task, but one humanity has no choice but to do.</p>
+<br>
+<p>Incomplete texts/thoughts follow, disregard them:</p>
 <p>[</p>
 <h2>Boring programming details (of a network best integrating choice-of-best)</h2>
 <p>…That was as short as possible, but still far too long.</p>
