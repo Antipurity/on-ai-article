@@ -189,7 +189,7 @@ That practically anywhere one looks, a human consciousness is a reinforced choic
 # Heart for Art
 <p>A lot of viewpoints converge into one area, their peak; another example of such a viewpoint follows.</p>
 <p>A song of equals; emergent behavior. Alliance of the small and simple ones, working towards the greater good… Allowing massive parallelism.</p>
-<p>The execute-and-adjust cycle, where the one controlling the adjustment is the meaning; focused not on the structure, but in variable spots of a static structure. Same in capabilities to soul and mind, but approaching reality differently.</p>
+<p>The execute-and-adjust cycle, where the one controlling the adjustment is the meaning; focused not on the structure, but in variable spots of a static structure. Same in capabilities to soul and mind, but approaching reality differently. Evolution in its absolute form.</p>
 <p>Where logic is a CPU thing, this is a GPU thing. Tensors (multi-dimensional arrays) and numeric computation have formed the basis of modern machine learning.</p>
 <p>Soul to act, mind to think, art to tune… Is there anything in humanity that is not an application of those three? If so, then it evades our notice as easily as if it did not exist.</p>
 <p>Presented here not to showcase, but to highlight another path for transformation, of that viewpoint of viewpoints, to lead it ever higher. Unite into one and ascend; a difficult task, but one humanity has no choice but to do.</p>
