@@ -12,7 +12,7 @@ Have to go from first principles [Which, even though much worse at first, is muc
 
 <p>[Bracketed spans are skippable.]</p>
 
-<p>It's a tale that loops back on itself, so it may not make total sense at first. But is there a better way to tell this? Not found.<br>
+<p>It's a tale that loops back on itself many times, trading an awkward start for a greater end, so it may not make total sense at first. But is there a better way to tell this? Not found.<br>
 So to reveal the deepest of secrets, one must endure the most immature-sounding of word collectives.</p>
 
 <br>
