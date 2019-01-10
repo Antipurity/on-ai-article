@@ -4,6 +4,12 @@ Establishes first principles of existence (self-similarity of universal optimize
 The main content is the content of index.html; it is also mirrored here for convenience.
 
 
+# Abstract
+Defines life in terms of 'anything' (viewpoints, programs, objects…) and 'universal optimizers' (things that change other things towards some defined-for-a-viewpoint meaning); from that, derives life's self-similarity in non-trivial worlds. Shows its relevance in reality (so it is not a meaningless abstract consideration). Internally-consistently describes several viewpoints that have been optimized to the point of being universal optimizers, with minimal assumptions: probability reinforcement (or choice, more generally), logic and equivalencies/operations, and tuning of variables. Shows choice's relevance in reality most.
+
+Also does some little things like make a conclusion on the danger of AI.
+
+
 # On AI
 
 <p>There are a few ways to make some AI — if 'a few' means 'infinitely many'. Though they all coalesce toward the same.<br>
